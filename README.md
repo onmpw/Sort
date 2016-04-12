@@ -1,7 +1,9 @@
 # Sort
 排序算法——Sort
 
-常用排序算法的代码实现
+下面这些算法实现原理可以参考下面这篇文章
+
+工程中常用排序算法——http://www.onmpw.com/tm/xwzj/algorithm_112.html
 
 包含的排序算法的代码为
 
@@ -18,7 +20,3 @@
 6.选择排序
 
 7.冒泡排序
-
-其中这些算法的实现原理可以参考下面这篇文章
-
-工程中常用排序算法——http://www.onmpw.com/tm/xwzj/algorithm_112.html
